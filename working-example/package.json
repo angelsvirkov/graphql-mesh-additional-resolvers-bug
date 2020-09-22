@@ -1,22 +1,14 @@
 {
   "name": "graphql-mesh-additional-resolvers-working-example",
   "version": "1.0.0",
-  "description": "An example of using graphql-mesh with express-graphql and how additional resolvers cannot resolve an additional type",
+  "description": "An example of using graphql-mesh with express-graphql and how additional resolvers can resolve an additional type",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/angelsvirkov/graphql-mesh-context-not-passed.git"
-  },
   "author": "Angel Svirkov",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/angelsvirkov/graphql-mesh-context-not-passed/issues"
-  },
-  "homepage": "https://github.com/angelsvirkov/graphql-mesh-context-not-passed#readme",
   "dependencies": {
     "@graphql-mesh/graphql": "^0.2.11",
     "@graphql-mesh/runtime": "^0.2.11",

@@ -7,16 +7,8 @@
     "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/angelsvirkov/graphql-mesh-context-not-passed.git"
-  },
   "author": "Angel Svirkov",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/angelsvirkov/graphql-mesh-context-not-passed/issues"
-  },
-  "homepage": "https://github.com/angelsvirkov/graphql-mesh-context-not-passed#readme",
   "dependencies": {
     "@graphql-mesh/config": "0.8.4",
     "@graphql-mesh/graphql": "0.5.5",
